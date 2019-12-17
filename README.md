@@ -2,16 +2,16 @@
 Built by Bootstrap
 
 ### Things to do:
-	- blueegg website project - Areas need the help from the CTO
+	blueegg website project - Areas need the help from the CTO
 
-	-Overarching
+	Overarching
 	• Font (Explanation: need the purchased font)
 
-	-[Footer]
+	[Footer]
 	• The contact forms(Explanation : the red arrow need to be replaced) 
 
 
-	-Homepage
+	Homepage
 	[how blueegg work]
 	• First image has thinker/different colour border
 	 (Explanation: the first background image cover the whole card and the others cover half)
@@ -25,7 +25,7 @@ Built by Bootstrap
 	• The cards can not flip 
 
 
-	-[Our work]
+	[Our work]
 	• Red arrows have the background image  
 	(Explanation: internal library pre-arrow attribute problemhttps://kenwheeler.github.io/slick/)
 	• "Read more" buttons have different colour 
