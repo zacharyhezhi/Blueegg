@@ -7,8 +7,13 @@ Built by Bootstrap
 	Overarching
 	• Font (Explanation: need the purchased font)
 
-	[Footer]
-	• The contact forms(Explanation : the red arrow need to be replaced) 
+	[Navbar]
+	• Padding issue with work and about us 
+
+	 [Footer]
+	• The contact forms
+	(Explanation : the red arrow need to be replaced) 
+
 
 
 	Homepage
@@ -37,9 +42,11 @@ Built by Bootstrap
 	Service
 	[Our service]
 	• Red arrows have no radius(Explanation: font-awesome library reference problem)
+	• The scroll is missing
 
 	[Contact form]
 	• Background pattern placed incorrectly(Explanation: Left part: red; right part: triangle)
+	• Contact form is missing
 
 	[Our service]
 	• Incorrect interaction – when zooming in, it still moves within the box. The boundary isn’t expended (Explanation: Animation problem)
@@ -47,4 +54,9 @@ Built by Bootstrap
 	• No gaps between the tiles
 
 	Work
+	[Blueegg works]
 	• Grey background is missing (Explanation: need the grey background image)
+	• See the project colour is wrong 
+	• The red arrow behind "the project" colour is wrong 
+	• Load More colour is wrong
+
